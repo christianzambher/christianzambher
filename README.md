@@ -48,6 +48,9 @@ Repositorio de ejercicios, prácticas técnicas y estructuras backend utilizando
 ### 🔹 Pokemon API - Clean Architecture
 API desarrollada en PHP aplicando principios de arquitectura limpia, documentación OpenAPI y organización escalable.
 
+### 🔹 Mini Paint Canvas
+Proyecto experimental utilizando Canvas API para dibujo y manipulación básica en navegador.
+
 ---
 
 ## 🌐 Portafolio
